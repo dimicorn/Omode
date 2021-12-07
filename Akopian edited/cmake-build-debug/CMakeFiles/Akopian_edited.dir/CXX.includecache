@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dmitr/Desktop/MIPT/3 sem/tools/pulsars/Akopian edited/functions.cpp
+cmath
+-
+iostream
+-
+functions.h
+C:/Users/dmitr/Desktop/MIPT/3 sem/tools/pulsars/Akopian edited/functions.h
+
+C:/Users/dmitr/Desktop/MIPT/3 sem/tools/pulsars/Akopian edited/functions.h
+
+C:/Users/dmitr/Desktop/MIPT/3 sem/tools/pulsars/Akopian edited/main.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+string
+-
+functions.h
+C:/Users/dmitr/Desktop/MIPT/3 sem/tools/pulsars/Akopian edited/functions.h
+

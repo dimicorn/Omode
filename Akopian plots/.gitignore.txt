@@ -1,0 +1,5 @@
+text.txt
+.idea
+images/
+images_mean/
+output/
